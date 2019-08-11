@@ -7,3 +7,5 @@ Template from: https://www.styleshout.com/free-templates/ceevee/
     -   navigate to the folder portfolio
     -   install dependencies using "yarn install"
     -   run "yarn start" to start the development server
+
+Deployed app visible: https://edwardsong05.github.io/portfolio/
